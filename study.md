@@ -21,18 +21,38 @@ There is no requirement to follow any links from these pages.
 After doing all the required readings please tell us anything you were confused about.
 
 ```md
-<!-- your answer here -->
+I'm confused how to actually use callback functions. I can see why they are useful,
+but I had a hard time following along for some of the examples. Particularly the examples
+that use jQuery as I have very limited experience with jQuery.
+
+Similarly, for function declarations vs function expressions, I had a hard time
+following along for all of the examples. I'm not sure I fully understand exactly
+how scope and hoisting work.
+
+I also don't think I really understand closures.
 ```
 
 Are there any nagging questions relating to functions that you have?
 
 ```md
-<!-- your answer here -->
+What are some real-life examples of when you would use a function declaration vs
+a function expression?
 ```
 
 Thus far how are you feeling about your progress as a developer, please give
 an extensive answer?
 
 ```md
-<!-- your answer here -->
+I feel good about my progress as a developer thus far. There are definitely concepts
+I am still figuring out, and not everything clicks right away but I've learned a whole
+lot for just a week.
+
+I think it would be helpful if the lectures moved a bit slower. When Lauren is leading
+I am able to keep up, but sometimes when Jason and Antony are lecturing a new concept
+or useful information is moved to while I am still processing what was just introduced
+and I feel like I am missing something until I ask questions to circle back to what was just said.
+
+I'm hoping I will have time this weekend to go over what we learned this week and review.
+For much of what we learned I feel like I am 80% of the way to where I want to be, and
+giving it more time will get me where I want to be.
 ```
